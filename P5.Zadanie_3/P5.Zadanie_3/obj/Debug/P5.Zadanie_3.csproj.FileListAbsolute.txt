@@ -1,0 +1,15 @@
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3.csproj.AssemblyReference.cache
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\MainWindow.g.cs
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\App.g.cs
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3_MarkupCompile.cache
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3_MarkupCompile.lref
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\bin\Debug\P5.Zadanie_3.exe.config
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\bin\Debug\P5.Zadanie_3.exe
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\bin\Debug\P5.Zadanie_3.pdb
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\MainWindow.baml
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3.g.resources
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3.Properties.Resources.resources
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3.csproj.GenerateResource.cache
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3.csproj.CoreCompileInputs.cache
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3.exe
+G:\Practical_5\P5.Zadanie_3\P5.Zadanie_3\obj\Debug\P5.Zadanie_3.pdb
